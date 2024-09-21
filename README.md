@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yi Kai</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m currently working on [Ranker](https://github.com/NgYiKai/ranker)
+- 🔭 I’m currently working on [Survey-laravel](https://github.com/NgYiKai/survey-laravel)
 
 - 🌱 I’m currently learning **Go and Java**
 
-- 👨‍💻 All of my projects are available at [https://ngyikai.netlify.app/](https://ngyikai.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ngyikai.pages.dev](https://ngyikai.pages.dev/)
 
 - 💬 Ask me about **Javascript and PHP**
 
